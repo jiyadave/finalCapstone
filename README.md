@@ -55,19 +55,25 @@ Using command prompt on local machine;
 
 ## Usage/Examples
 
-```bash
-import task_manager as tm
-tm.launch_task_manager()
-```
+- Launch task_manager.py using python from Command Prompt
+- Enter your username and password (defaults: username=admin, password=password)
+- This will launch the menu, select an item and follow instructions
+  - r - Registering a user
+  - a - Adding a task
+  - va - View all tasks
+  - vm - View my task
+  - gr - Generate reports (admin only)
+  - ds - Display statistics (admin only)
+  - e - Exit
+- Users can reassign their task, mark as complete or change the due date unter the 'vm - view my task' section.
 
 <picture>
  <img alt="launch menu image" src="https://github.com/jiyadave/finalCapstone/blob/main/screenshots/launch_menu.JPG">
 </picture>
 
 
-![App Screenshot](https://github.com/jiyadave/finalCapstone/blob/main/screenshots/launch_menu.JPG)
+![App Screenshot](https://github.com/jiyadave/finalCapstone/blob/main/screenshots/view_all_tasks.JPG)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,0 +1,9 @@
+Total Number of Users: 	1
+Total Number of Tasks: 	0
+
+Username: 					admin
+Number of User Tasks: 		0
+Percentage of Total Tasks: 	0.00%
+Percentage Completed: 		0.00%
+Percentage Uncompleted: 	0.00%
+Percentage Overdue: 		0.00%
